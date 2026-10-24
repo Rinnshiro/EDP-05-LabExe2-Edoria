@@ -1,0 +1,10 @@
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream2.csproj.AssemblyReference.cache
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream2.FrmOpenTextFile.resources
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream2.FrmRegistration.resources
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream2.FrmStudentRecord.resources
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream2.FrmLab1.resources
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream2.FrmFileName.resources
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream2.csproj.GenerateResource.cache
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream2.csproj.CoreCompileInputs.cache
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream.exe
+C:\Users\edoria.419982\Downloads\Edoria_Raine_LabStream2\obj\Debug\Edoria_Raine_LabStream.pdb
