@@ -93,6 +93,7 @@ namespace Edoria_Raine_LabStream
                 MessageBox.Show(ex.Message, "File Error",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            Close();
         }
     }
 }
